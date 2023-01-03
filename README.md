@@ -14,4 +14,4 @@ SCRIPT UNTUK MENCARI EMAIL WEBSITE INFO
 
 6.cd EMAIL-WEBSITE-INFO
 
-6.python email.py 
+6.python emailwebsite.py 
